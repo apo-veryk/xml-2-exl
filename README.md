@@ -46,7 +46,7 @@ This Python script converts XML files, commonly used in e-shop and merchant onli
    ```
 2. **Run PyInstaller with the following command:**
    ```bash
-   pyinstaller --onefile --noconsole xml_converter.py
+   pyinstaller --onefile --noconsole main.py
    ```
 - The .exe file will appear in the dist folder. This executable will allow users to run the script without needing Python installed.
 
