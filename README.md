@@ -32,7 +32,7 @@ This Python script converts XML files, commonly used in e-shop and merchant onli
    ```
 2. **Input Methods**
    - Choose between a local XML file or enter a URL link when prompted.
-   - The script will try common XML tags like <product>, <item>, or <post> but will prompt you to enter a custom tag if none are found automatically.
+   - The script will try common XML tags like `<product>`, `<item>`, or `<post>` but will prompt you to enter a custom tag if none are found automatically.
 
 3. **Specify Output File Name**
    - Enter a desired name for the output files (without extension). The script will save the files in the same directory as the source XML file.
